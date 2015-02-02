@@ -2,6 +2,6 @@
 
 Störungs-Website für Versicherungsmonitor.de
 
-Bitte in "branch" oben auf gh-pages wechseln.
+Bitte zum Bearbeiten [in branch gh-pages](https://github.com/mvtango/versicherungsmonitor-stoerung/tree/gh-pages) wechseln.
 
 
