@@ -1,1 +1,3 @@
-# "Störung"-Webiste für Fromme's Versicherungsmonitor
+# "Störung"-Website für Fromme's Versicherungsmonitor
+=======
+Störungs-Website für Versicherungsmonitor.de
